@@ -32,7 +32,7 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 - 👨‍💻 **Software Engenieer**\
-📆 oct/2019 - fev/2022
+📆 oct/2019 - fev/2022\
 📍 **NetPos** - São Paulo/SP, Brazil
   
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -42,7 +42,7 @@
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 - 👨‍💻 **PHP Developer**\
-📆 april/2019 - out/2019
+📆 april/2019 - out/2019\
 📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 <!--
 **diegozelao/diegozelao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
