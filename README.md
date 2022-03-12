@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Diego David 👨‍💻
+
+<hr />
 
 
 <div> 
