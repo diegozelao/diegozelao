@@ -37,7 +37,7 @@
 - 👨‍💻 **PHP Developer**\
 📆 april/2019 - out/2019\
 📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
- 
+</details>
  
 <p align='center'>
   <div> 
