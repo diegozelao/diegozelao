@@ -8,7 +8,7 @@
 <hr />
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resume | Info </summary>
 
 
 ## Education
