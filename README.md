@@ -9,10 +9,11 @@
 <hr />
 
 <details open>
-<summary style="font-size: 1.125rem;line-height: 1.75rem;font-weight: 600;">📃 Dev - Skills  </summary>
+<summary style="font-size: 1.5rem;">📃 Dev - Skills  </summary>
     
+<br />
+
 <div style="display: inline-flexbox;">
-    <br />
     <img alt="Next" sizes="25px" 
       src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white"
     />
@@ -74,7 +75,7 @@
 <hr />
 
 <details open>
-<summary>📃 Resume | Info </summary>
+<summary style="font-size: 1.5rem;" >📃 Resume | Info </summary>
 
 <div>
 
@@ -218,13 +219,11 @@
 <br />
 <hr />
 
-<p align='center'>
-  <div> 
-    <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://api.whatsapp.com/send?phone=5519996622234"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-</p>
+<div align='center'> 
+  <a href = "mailto:diegodavidtech@gmail.com"><img height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5519996622234"><img height="45" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegodavidbarros" target="_blank"><img height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **diegozelao/diegozelao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
