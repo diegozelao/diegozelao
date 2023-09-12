@@ -220,7 +220,7 @@
 <hr />
 
 
-<div align="center"> 
+<div align='center' style="display: inline-flexbox;">
   <a style='margin: 20px;' href = "mailto:diegodavidtech@gmail.com">
     <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
