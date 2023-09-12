@@ -7,7 +7,7 @@
 </p>
 <hr />
 
-<details>
+<details open>
   <summary>📃 Resume | Info </summary>
 
 
@@ -19,6 +19,22 @@
 
 ## Experience
 
+- 👨‍💻 **Software Engineer **\
+📆 oct/2019 - fev/2022\
+📍 **NetPos** - São Paulo/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
+- 👨‍💻 **Software Engineer **\
+📆 oct/2019 - fev/2022\
+📍 **NetPos** - São Paulo/SP, Brazil
+  
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -26,19 +42,16 @@
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-- 👨‍💻 **Software Engenieer**\
-📆 oct/2019 - fev/2022\
-📍 **NetPos** - São Paulo/SP, Brazil
-  
+- 👨‍💻 **PHP Developer**\
+📆 april/2019 - out/2019\
+📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
+
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-- 👨‍💻 **PHP Developer**\
-📆 april/2019 - out/2019\
-📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 </details>
 <hr />
 <div style="display: inline_block"><br>
