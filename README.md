@@ -13,62 +13,24 @@
     
 <br />
 
-<div style="display: inline-flexbox;">
-    <img alt="Next" sizes="25px" 
-      src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white"
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" 
-    />
-    <img alt="React" sizes="25px"
-      src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" 
-    />
-</div>
+| Front-end | Backend | DataBase | Others |
+| --- | --- | --- | --- |
+| ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | --- | --- | --- |
+| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/TailWindCSS-1572B6?style=for-the-badge&logo=TailWindCss&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - ![](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) - ![](https://img.shields.io/badge/Zustand-A4373A?style=for-the-badge&logo=Zustand&logoColor=white) | --- | --- | --- |
+| ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | --- | --- | --- |
+| ![](https://img.shields.io/badge/React_Hook_Form-FF3366?style=for-the-badge&logo=ReactHookForm&logoColor=white) | --- | --- | --- |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) - ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) | --- | --- | --- |
+| ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | --- | --- | --- |
+| ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) - ![Axios](https://img.shields.io/badge/axios-1C1E24?style=for-the-badge&logo=axios&logoColor=#D04A37) | --- | --- | --- |
+| ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) | --- | --- | --- |
+| ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) - ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) - ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)| --- | --- | --- |
+| ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) - ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | --- | --- | --- |
+
 
 </details>
 
@@ -220,15 +182,15 @@
 <hr />
 
 
-<div style="display: inline-flexbox;">
+<div align="center" style="display: inline-flexbox;">
   <a href = "mailto:diegodavidtech@gmail.com">
-    <img align="center" style="padding: 20px;" height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href = "https://api.whatsapp.com/send?phone=5519996622234">
-    <img align="center" style="padding: 20px;" height="45" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/diegodavidbarros" target="_blank">
-    <img align="center" style="padding: 20px;" height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
 <!--
