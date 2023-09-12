@@ -86,37 +86,38 @@
 
   <hr />
 
-  <img align="right" alt="Angular" height="23" 
-    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
-  />
-  <img align="right" alt="TypeScript" height="23" 
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-  />
-  <img align="right" alt="React" height="23" 
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-  />
-  <img align="right" alt="Redux" height="23" 
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
-  />
-  <img align="right" alt="SQLite" height="23" 
-    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
-  />
-  <img align="right" alt=".NET" height="23" 
-    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
-  />
-  <img align="right" alt="Azure" height="23" 
-    src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" 
-  />
-  <img align="right" alt="Rabbit MQ" height="23" 
-    src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
-  />
-  <img align="right" alt="jQuery" height="23" 
-    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
-  />
-  <img align="right" alt="Jira" height="23" 
-    src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
-  />
-
+  <div style="display:flex; flex-direction: row;">
+    <img align="right" alt="Angular" height="23" 
+      src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
+    />
+    <img align="right" alt="TypeScript" height="23" 
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
+    />
+    <img align="right" alt="React" height="23" 
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    />
+    <img align="right" alt="Redux" height="23" 
+      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
+    />
+    <img align="right" alt="SQLite" height="23" 
+      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
+    />
+    <img align="right" alt=".NET" height="23" 
+      src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+    />
+    <img align="right" alt="Azure" height="23" 
+      src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" 
+    />
+    <img align="right" alt="Rabbit MQ" height="23" 
+      src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
+    />
+    <img align="right" alt="jQuery" height="23" 
+      src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+    />
+    <img align="right" alt="Jira" height="23" 
+      src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
+    />
+  </div>
   <hr />
 
   - 👨‍💻 **Software Engineer **\
