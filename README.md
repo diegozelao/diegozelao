@@ -71,9 +71,9 @@
 <hr />
 
 <details open>
-  <summary style="font-family: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;font-size: 1.125rem;line-height: 1.75rem;font-weight: 600;">📃 Dev - Skills  </summary>
+  <summary style="font-size: 1.125rem;line-height: 1.75rem;font-weight: 600;">📃 Dev - Skills  </summary>
     
-  <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;gap: 0.5rem;">
       <img alt="Next" 
         src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white"
       />
