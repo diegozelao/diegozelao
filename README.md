@@ -93,6 +93,7 @@
 - 👨‍💻 **Software Engineer **\
 📆 abr/2022 - dez/2022\
 📍 **OnlineApplications** - São Paulo/SP, Brazil
+
 <br />
 <div style="display: inline-flexbox;">
   <img align="left" alt="Angular" height="23" 
@@ -181,6 +182,8 @@
 </div>
 
 <br />
+<br />
+
 <hr />
 
 - 👨‍💻 **PHP Developer**\
@@ -209,9 +212,6 @@
       src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
     />
 </div>
-
-<br />
-
 </details>
 
 </div>
