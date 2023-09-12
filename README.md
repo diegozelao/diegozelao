@@ -94,7 +94,7 @@
 📆 abr/2022 - dez/2022\
 📍 **OnlineApplications** - São Paulo/SP, Brazil
 <br />
-<div style="display: inline-flexbox; padding-bottom: 1rem;">
+<div style="display: inline-flexbox;">
   <img align="left" alt="Angular" height="23" 
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
   />
@@ -127,7 +127,12 @@
   />
 </div>
 
+<br />
+<br />
+
 <hr />
+
+<br />
 <br />
 
 - 👨‍💻 **Software Engineer **\
