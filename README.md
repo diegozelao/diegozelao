@@ -221,9 +221,15 @@
 
 
 <div align="center"> 
-  <a style='margin: 20px 20px;' href = "mailto:diegodavidtech@gmail.com"><img height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a style='margin: 20px 20px;' href = "https://api.whatsapp.com/send?phone=5519996622234"><img height="45" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a style='margin: 20px 20px;' href="https://www.linkedin.com/in/diegodavidbarros" target="_blank"><img height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a style='margin: 20px;' href = "mailto:diegodavidtech@gmail.com">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a style='margin: 20px;' href = "https://api.whatsapp.com/send?phone=5519996622234">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a style='margin: 20px;' href="https://www.linkedin.com/in/diegodavidbarros" target="_blank">
+    <img style="padding: 20px;" height="45" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
 <!--
 **diegozelao/diegozelao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
