@@ -10,7 +10,6 @@
 
 <details>
   <summary>📃 Dev - Skills  </summary>
-
   <div style="display: inline_block">
     <img align="center" alt="React" height="30" 
       src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" 
@@ -68,7 +67,9 @@
     />
   </div>
 </details>
+
 <hr />
+
 <details open>
   <summary style="font-family: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;font-size: 1.125rem;line-height: 1.75rem;font-weight: 600;">📃 Dev - Skills  </summary>
     
@@ -146,7 +147,7 @@
   📆 abr/2022 - dez/2022\
   📍 **OnlineApplications** - São Paulo/SP, Brazil
 
-
+  <hr />
 
    <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
     <img align="right" alt="Angular" height="23" 
@@ -180,13 +181,13 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
     />
   </div>
-
+  <hr />
 
   - 👨‍💻 **Software Engineer **\
   📆 oct/2019 - fev/2022\
   📍 **NetPos** - São Paulo/SP, Brazil
 
-
+  <hr />
      <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
   <img align="right" alt="JavaScript" height="23" 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
@@ -228,36 +229,35 @@
     src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white" 
   />
   </div>
-
+  <hr />
 
   - 👨‍💻 **PHP Developer**\
   📆 april/2019 - out/2019\
   📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 
+  <hr />
    <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
-  <img align="right" alt="PHP" height="23" 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-  />
-  <img align="right" alt="JavaScript" height="23" 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-  />
-  <img align="right" alt="Vue" height="23" 
-    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" 
-  />
-  <img align="right" alt="Laravel" height="23" 
-    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" 
-  />
-  <img align="right" alt="PostgreSQL" height="23" 
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
-  />
-  <img align="right" alt="jQuery" height="23" 
-    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
-  />
+    <img align="right" alt="PHP" height="23" 
+      src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
+    />
+    <img align="right" alt="JavaScript" height="23" 
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    />
+    <img align="right" alt="Vue" height="23" 
+      src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" 
+    />
+    <img align="right" alt="Laravel" height="23" 
+      src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" 
+    />
+    <img align="right" alt="PostgreSQL" height="23" 
+      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
+    />
+    <img align="right" alt="jQuery" height="23" 
+      src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+    />
   </div>
 </details>
-
 <hr />
- 
 <p align='center'>
   <div> 
     <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
