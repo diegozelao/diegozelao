@@ -146,7 +146,7 @@
   📆 abr/2022 - dez/2022\
   📍 **OnlineApplications** - São Paulo/SP, Brazil
 
-  <hr />
+
 
    <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
     <img align="right" alt="Angular" height="23" 
@@ -180,13 +180,13 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
     />
   </div>
-  <hr />
+
 
   - 👨‍💻 **Software Engineer **\
   📆 oct/2019 - fev/2022\
   📍 **NetPos** - São Paulo/SP, Brazil
 
-  <hr />
+
      <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
   <img align="right" alt="JavaScript" height="23" 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
@@ -228,13 +228,12 @@
     src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white" 
   />
   </div>
-  <hr />
+
 
   - 👨‍💻 **PHP Developer**\
   📆 april/2019 - out/2019\
   📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 
-  <hr />
    <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
   <img align="right" alt="PHP" height="23" 
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
@@ -255,10 +254,8 @@
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
   />
   </div>
-
-  <hr />
 </details>
-<hr />
+
 <hr />
  
 <p align='center'>
