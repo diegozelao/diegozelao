@@ -148,7 +148,7 @@
 
   <hr />
 
-  <div style="display:flex; flex-direction: row;">
+   <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
     <img align="right" alt="Angular" height="23" 
       src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
     />
@@ -187,7 +187,7 @@
   📍 **NetPos** - São Paulo/SP, Brazil
 
   <hr />
-    
+     <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
   <img align="right" alt="JavaScript" height="23" 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
   />
@@ -227,7 +227,7 @@
   <img align="right" alt="Next" height="23" 
     src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white" 
   />
-
+  </div>
   <hr />
 
   - 👨‍💻 **PHP Developer**\
@@ -235,7 +235,7 @@
   📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 
   <hr />
-
+   <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr));gap: 0.5rem;">
   <img align="right" alt="PHP" height="23" 
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
   />
@@ -254,6 +254,7 @@
   <img align="right" alt="jQuery" height="23" 
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
   />
+  </div>
 
   <hr />
 </details>
