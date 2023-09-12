@@ -154,7 +154,7 @@
 <hr />
 
 <details>
-<summary style="font-size: 1.5rem;">📃 Dev - Skills  </summary>
+<summary style="font-size: 1.5rem;">📃 Dev - Skills and Studying </summary>
 
 | Front-end | Backend | DataBase | Others |
 | --- | --- | --- | --- |
