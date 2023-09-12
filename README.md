@@ -11,8 +11,8 @@
 <details open>
   <summary style="font-size: 1.125rem;line-height: 1.75rem;font-weight: 600;">📃 Dev - Skills  </summary>
     
-  <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;gap: 0.5rem;">
-      <img alt="Next" sizes="30px" 
+  <div style="display: inline-flexbox;">
+      <img alt="Next" sizes="25px" 
         src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white"
       />
       <img alt="React" sizes="25px"
