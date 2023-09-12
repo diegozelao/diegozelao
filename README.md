@@ -127,9 +127,10 @@
   />
 </div>
 
+<br />
+<br />
+
 <hr />
-<br />
-<br />
 
 - 👨‍💻 **Software Engineer **\
 📆 oct/2019 - fev/2022\
