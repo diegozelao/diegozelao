@@ -80,26 +80,38 @@
 ## Experience
 
 - 👨‍💻 **Software Engineer **\
-📆 oct/2019 - fev/2022\
-📍 **NetPos** - São Paulo/SP, Brazil
+📆 abr/2022 - dez/2022\
+📍 **OnlineApplications** - São Paulo/SP, Brazil
 
-<img align="right" 
+<img align="right" alt="Angular" height="30" 
+  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
+/>
+<img align="right" alt="TypeScript" height="30" 
   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
 />
-<img align="right" 
-  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
-/>
-<img align="right" 
-  src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-/>
-<img align="right" 
+<img align="right" alt="React" height="30" 
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
-<img align="right" 
+<img align="right" alt="Redux" height="30" 
   src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
 />
-<img align="right" 
-  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+<img align="right" alt="SQLite" height="30" 
+  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
+/>
+<img align="right" alt=".NET" height="30" 
+  src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+/>
+<img align="right" alt="Azure" height="30" 
+  src="	https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" 
+/>
+<img align="right" alt="Rabbit MQ" height="30" 
+  src="	https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
+/>
+<img align="right" alt="jQuery" height="30" 
+  src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+/>
+<img align="right" alt="Jira" height="30" 
+  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
 />
 
 
@@ -107,44 +119,69 @@
 📆 oct/2019 - fev/2022\
 📍 **NetPos** - São Paulo/SP, Brazil
   
-<img align="right" 
+<img align="right" alt="JavaScript" height="30" 
   src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
 />
-<img align="right" 
+<img align="right" alt="TypeScript" height="30" 
   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
 />
-<img align="right" 
+<img align="right" alt="Node" height="30" 
   src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
 />
-<img align="right" 
+<img align="right" alt="React" height="30" 
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
-<img align="right" 
+<img align="right" alt="Redux" height="30" 
   src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" 
 />
-<img align="right" 
+<img align="right" alt="MySQL" height="30" 
   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+/>
+<img align="right" alt="Sequelize" height="30" 
+  src="	https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
+/>
+<img align="right" alt="Express" height="30" 
+  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
+/>
+<img align="right" alt="React Router" height="30" 
+  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" 
+/>
+<img align="right" alt="Amazon AWS" height="30" 
+  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" 
+/>
+<img align="right" alt="Jira" height="30" 
+  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
+/>
+<img align="right" alt="Jenkins" height="30" 
+  src="	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" 
+/>
+<img align="right" alt="Next" height="30" 
+  src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white" 
 />
 
 - 👨‍💻 **PHP Developer**\
 📆 april/2019 - out/2019\
 📍 **TECNOSWEB** - São Leopoldo/RS, Brazil
 
-<img align="right" 
+<img align="right" alt="PHP" height="30" 
   src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
 />
-<img align="right" 
+<img align="right" alt="JavaScript" height="30" 
   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
 />
-<img align="right" 
+<img align="right" alt="Vue" height="30" 
   src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" 
 />
-<img align="right" 
+<img align="right" alt="Laravel" height="30" 
   src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" 
 />
-<img align="right" 
+<img align="right" alt="PostgreSQL" height="30" 
   src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
 />
+<img align="right" alt="jQuery" height="30" 
+  src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+/>
+
 
 </details>
 <hr />
