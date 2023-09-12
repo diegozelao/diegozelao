@@ -8,6 +8,7 @@
 <hr />
 
 <details>
+  <summary>📃 Dev - Skills  </summary>
   <div style="display: inline_block"><br>
     <img align="center" alt="React" height="30" 
       src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" 
@@ -99,16 +100,16 @@
   src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" 
 />
 <img align="right" alt=".NET" height="30" 
-  src="	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
 />
 <img align="right" alt="Azure" height="30" 
-  src="	https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" 
+  src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" 
 />
 <img align="right" alt="Rabbit MQ" height="30" 
-  src="	https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
+  src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
 />
 <img align="right" alt="jQuery" height="30" 
-  src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
 />
 <img align="right" alt="Jira" height="30" 
   src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
@@ -138,7 +139,7 @@
   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
 />
 <img align="right" alt="Sequelize" height="30" 
-  src="	https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
+  src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
 />
 <img align="right" alt="Express" height="30" 
   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
@@ -153,7 +154,7 @@
   src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" 
 />
 <img align="right" alt="Jenkins" height="30" 
-  src="	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" 
+  src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" 
 />
 <img align="right" alt="Next" height="30" 
   src="https://img.shields.io/badge/Next.js-404D59?style=for-the-badge&logo=next&logoColor=white" 
@@ -179,7 +180,7 @@
   src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
 />
 <img align="right" alt="jQuery" height="30" 
-  src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
+  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
 />
 
 
