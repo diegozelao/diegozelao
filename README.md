@@ -8,7 +8,7 @@
 
 <hr />
 
-<details open>
+<details >
 <summary style="font-size: 1.5rem;" >📃 Resume | Info </summary>
 
 <div>
